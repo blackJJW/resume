@@ -69,7 +69,7 @@
     - 카카오 스킬 서버 구축
         - 챗봇 스킬, 시나리오 작성
 
-### ▣ Kaggle - Ubiquant Market Prediction [→ 자세히 보기](https://github.com/blackJJW/Kaggle/tree/main/ubiquant_prediction)**
+### ▣ Kaggle - Ubiquant Market Prediction [→ 자세히 보기](https://github.com/blackJJW/Kaggle/tree/main/ubiquant_prediction)
 
 - **사용언어** : `Python`
 - **작업 툴** : `Kaggle Notebook`
