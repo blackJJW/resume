@@ -53,7 +53,7 @@
 
 ---
 
-### 임대 주택 알리미 (챗봇) [→ 자세히 보기](https://github.com/blackJJW/chatbot_kakao_groom)
+### ▣ 임대 주택 알리미 (챗봇) [→ 자세히 보기](https://github.com/blackJJW/chatbot_kakao_groom)
 
 - **사용언어** : `Python`
 - **작업 툴** : `VScode`, `kakao i open builder`, `HEROKU`, `Flask`, `goormIDE`
@@ -69,7 +69,7 @@
     - 카카오 스킬 서버 구축
         - 챗봇 스킬, 시나리오 작성
 
-### Kaggle - ****Ubiquant Market Prediction [→ 자세히 보기](https://github.com/blackJJW/Kaggle/tree/main/ubiquant_prediction)**
+### ▣ Kaggle - Ubiquant Market Prediction [→ 자세히 보기](https://github.com/blackJJW/Kaggle/tree/main/ubiquant_prediction)**
 
 - **사용언어** : `Python`
 - **작업 툴** : `Kaggle Notebook`
@@ -80,7 +80,7 @@
     - 투자에 관한 데이터를 가지고 다각적 분석을 통해 미래의 투자 수익률을 예측하는 모델을 빌드한다.
 - **URL** :  [https://www.kaggle.com/competitions/ubiquant-market-prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction)
 
-### 뉴스 감성분석을 통한 주가예측 [→ 자세히 보기](https://github.com/blackJJW/A-final)
+### ▣ 뉴스 감성분석을 통한 주가예측 [→ 자세히 보기](https://github.com/blackJJW/A-final)
 
 - **사용언어** : `Python`
 - **작업 툴** : `VScode`, `Spyder`, `Colab`, `Jupyter Notebook`
