@@ -29,7 +29,7 @@
         - 댜양한 형식의 대용량 데이터의 수집, 저장, 처리, 분석, 활용을 위한 인프라, 인터페이스 및 솔루션을 개발하고 적용
         - `R`
         - `Python`, `Django`
-        - `MySQL`, `ORACLE'
+        - `MySQL`, `ORACLE`
         - `Machine Learning`, `Deep Learning`
         - `HTML5`, `JavaScript`, `CSS3`
         - `JAVA`, `Spring Framework`, `Spring Boot`
