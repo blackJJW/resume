@@ -33,7 +33,7 @@
         - `Machine Learning`, `Deep Learning`
         - `HTML5`, `JavaScript`, `CSS3`
         - `JAVA`, `Spring Framework`, `Spring Boot`
-        - `Github`, `Sourcetree`, 'Notion'
+        - `Github`, `Sourcetree`, `Notion`
 
 
 - **과정명** : 현장 전문가 육성을 위한 인공지능(AI) 창의융합형 인재 양성 과정
