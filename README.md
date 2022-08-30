@@ -74,6 +74,7 @@
 - **사용언어** : `Python`, `Java`, `HTML`, `CSS`, `JavaScript`
 - **작업 툴** : `Spring Boot`, `Spring Security`, `ORACLE`, `DBeaver`, `GitHub`, `Sourcetree`, `VScode`, `STS4`, `Colab`, `jQuery`, `Ajax`
 - **데이터 분석사용 라이브러리 :** `pandas`, `seaborn`, `sklearn`, `tensorflow`
+- **사용 API** : `Kakao Maps API`, `openroute service API`, `서울 열린데이터 광장 API`, `에어코리아 API`
 - **인원** : 5명
 - **기간** : 2022.07.14 ~ 2022.08.25
 - **내용**
