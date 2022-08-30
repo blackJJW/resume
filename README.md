@@ -69,6 +69,26 @@
 
 ---
 
+### ▣ 자전거 경로 안내와 경로에 따른 미세먼지 흡입량 계산 서비스 (웹사이트) [→ 자세히 보기](https://github.com/blackJJW/FineDust)
+
+- **사용언어** : `Python`, `Java`, `HTML`, `CSS`, `JavaScript`
+- **작업 툴** : `Spring Boot`, `Spring Security`, `ORACLE`, `DBeaver`, `GitHub`, `Sourcetree`, `VScode`, `STS4`, `Colab`, `jQuery`, `Ajax`
+- **데이터 분석사용 라이브러리 :** `pandas`, `seaborn`, `sklearn`, `tensorflow`
+- **인원** : 5명
+- **기간** : 2022.07.14 ~ 2022.08.25
+- **내용**
+    - 자전거 이용을 활성화해 신선한 공기와 도시를 만드는데 이바지할 수 있는 사이트 제작
+        - 자전거 경로, 공유 자전거 대여소 정보 제공
+    - 사용자가 자전거 이용 여부를 판단하도록 하여 미세먼지로 부터 건강 보호
+        - 미세먼지 현황 제공
+        - 경로 이동 동안 예상 미세먼지 흡입량 계산 서비스 제공
+- **팀 내 역할**
+    - 데이터 베이스에 적용할 ERD 설계
+    - `Spring Security`를 적용한 로그인 기능 구현
+    - `Spring Security`의 인증을 이용한 페이지별 권한 설정
+    - 화면에 지도를 보여주며, 행정구역 별 미세먼지 현황과 자전거 경로를 보여주는 기능 구현
+    - 자전거 경로에 따른 미세먼지 흡입량을 계산해주는 기능 구현
+
 ### ▣ 임대 주택 알리미 (챗봇) [→ 자세히 보기](https://github.com/blackJJW/chatbot_kakao_groom)
 
 - **사용언어** : `Python`
