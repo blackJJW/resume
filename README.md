@@ -12,7 +12,10 @@
 
 ---
 
-- 2022.09 ~ 인빅(주) - AI Team - Researcher
+- 2022.09 ~ 
+  - 인빅(주) 
+    - AI Team - Researcher(연구원, 2022.09 ~ 2022.12)
+    - R&D Team 1 - Assistant Research Engineer(주임 연구원, 2023.01 ~ )
 
 ## 3. 학력
 
@@ -26,6 +29,11 @@
 ## 4. 교육사항
 
 ---
+
+- **NVIDIA DLI**
+  - **기간** : 2023.04
+  - **교육내용**
+    - 딥러닝의 기초 [Certificate](img/Certificate%20_Nvidia_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%98_%EA%B8%B0%EC%B4%88.pdf)
 
 - **과정명** : 성남-KAIST 머신러닝과 빅데이터 과정
     - **주관처** : KAIST, 성남산업진흥원
