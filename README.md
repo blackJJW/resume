@@ -35,7 +35,7 @@
   - **기간** : 2023.04
   - **교육내용**
     - 딥러닝의 기초 [Certificate](img/cert/Certificate%20_Nvidia_%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%98_%EA%B8%B0%EC%B4%88.pdf)
-
+    - Fundamentals of Accelerated Computing with CUDA C/C++ [Certificate](img/cert/Certificate_CUDA.pdf)
 
 - **과정명** : 성남-KAIST 머신러닝과 빅데이터 과정
     - **주관처** : KAIST, 성남산업진흥원
