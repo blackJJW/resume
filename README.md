@@ -13,9 +13,14 @@
 ---
 
 - 2022.09 ~ 
-  - 인빅(주) 
-    - AI Team - Researcher(연구원, 2022.09 ~ 2022.12)
-    - R&D Team 1 - Assistant Research Engineer(주임 연구원, 2023.01 ~ )
+  - 인빅(주)
+    - 직위 :
+        - AI Team - Researcher(연구원, 2022.09 ~ 2022.12)
+        - R&D Team 1 - Assistant Research Engineer(주임 연구원, 2023.01 ~ )
+    - 개발 경험 :
+        - MLOps Developer
+            - Deepstream, GStreamer, FFmpeg 등을 이용한 AI 영상 처리
+            - AI 모델을 적용한 실시간 영상 처리 server 개발
 
 ## 3. 학력
 
