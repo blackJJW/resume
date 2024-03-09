@@ -30,6 +30,15 @@
 
 ---
 
+- **과정명** : 성남-KAIST 머신러닝과 빅데이터 과정
+    - **주관처** : KAIST, 성남산업진흥원
+    - **기간** : 2023.10.13 ~ 2023.11.03 
+    - **교육내용**
+        - Recurrent Neural Network and Transformer
+        - Reinforcement Learining
+        - Drone
+        - Generative Model - Diffusion Model, Large Language Model
+
 - **과정명** : NVIDIA DLI
   - **주관처** : NVIDIA DLI, Leaders Systems
   - **기간** : 2023.04
@@ -42,7 +51,7 @@
     - **기간** : 2022.10.07 ~ 2022.10.28 
     - **교육내용**
         - 기계학습에 대한 기본지식과 최신 딥러닝 기법들과 자연어처리 기법
-        - 기학습 기법들을 다양한 종류의 데이터에 적용, 실무에 필요한 전처리 기법, 주요 기계학습 SWtool들의 사용법
+        - 기계학습 기법들을 다양한 종류의 데이터에 적용, 실무에 필요한 전처리 기법, 주요 기계학습 SWtool들의 사용법
         - Machine learning with Scikit-Learn
         - Deep learing with TensorFlow
         - Convolutional Neural Network
