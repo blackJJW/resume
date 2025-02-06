@@ -15,12 +15,32 @@
 - 2022.09 ~ 
   - 인빅(주)
     - 직위 :
-        - R&D Team - Assistant Research Engineer(주임 연구원, 2023.01 ~ )
-        - AI Team - Researcher(연구원, 2022.09 ~ 2022.12)
+        - 개밡2팀 : Assistant Research Engineer(주임 연구원, 2024.06 - )
+        - 전략사업팀 : Assistant Research Engineer(주임 연구원, 2024.04 - 2024.05)
+        - R&D Team : Assistant Research Engineer(주임 연구원, 2023.01 - 2024.04)
+        - AI Team : Researcher(연구원, 2022.09 - 2022.12)
     - 개발 경험 :
+        - Full Stack Developer
+            - Spring Boot, JavaScript, HTML, CSS, Redis 등을 이용한 AI 서버와의 연동 홈페이지 제작
+            - UX를 고려한 이미지, 동영상 시청을 위한 UI 개발 및 개선
         - MLOps Developer
             - Deepstream, GStreamer, FFmpeg 등을 이용한 AI 영상 처리
             - AI 모델을 적용한 실시간 영상 처리 server 개발
+    - 전시회 참여 및 부스 운영 경험 :
+        - 2025
+            - CES 2025 (1.6 - 9, Las Vegas, USA)
+        - 2024
+            - COMEUP 2024 (12.11 - 12, Seoul, KOREA)
+            - SCEWC 2024 (11.5 - 7, Barcelona, SPAIN)
+            - 국제치안산업대전 (10.23 - 26, Incheon, KOREA)
+            - GITEX GLOBAL (10.14 - 18, Dubai, UAE)
+            - REAIM (9.9 - 10, Seoul, Korea)
+            - 제8회 국방과학기술 대제전 (8.1 - 3, Seoul, Korea)
+        - 2023
+            - 국제치안산업대전 (10.18 - 21, Incheon, KOREA)
+            - 2023 대한민국 안전산업박람회 (9.13 - 15, Goyang, KOREA )
+            - K-ICT WEEK in BUSAN (9.6 - 8, Busan, KOREA)
+            - 평택해양페스티벌 (5.11, Pyeongtaek, KOREA)
 
 ## 3. 학력
 
