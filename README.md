@@ -15,7 +15,7 @@
 - 2022.09 ~ 
   - 인빅(주)
     - 직위 :
-        - 개밡2팀 : Assistant Research Engineer(주임 연구원, 2024.06 - )
+        - 개발2팀 : Assistant Research Engineer(주임 연구원, 2024.06 - )
         - 전략사업팀 : Assistant Research Engineer(주임 연구원, 2024.04 - 2024.05)
         - R&D Team : Assistant Research Engineer(주임 연구원, 2023.01 - 2024.04)
         - AI Team : Researcher(연구원, 2022.09 - 2022.12)
