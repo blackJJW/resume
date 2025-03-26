@@ -24,17 +24,18 @@
             - AI 모델을 적용한 실시간 영상 처리 server 개발
     - 전시회 참여 및 부스 운영 경험 :
         - 2025
+            - SECON 2025 (3.19 - 21, Goyang, KOREA)
             - CES 2025 (1.6 - 9, Las Vegas, USA)
         - 2024
             - COMEUP 2024 (12.11 - 12, Seoul, KOREA)
             - SCEWC 2024 (11.5 - 7, Barcelona, SPAIN)
             - 국제치안산업대전 (10.23 - 26, Incheon, KOREA)
             - GITEX GLOBAL (10.14 - 18, Dubai, UAE)
-            - REAIM (9.9 - 10, Seoul, Korea)
-            - 제8회 국방과학기술 대제전 (8.1 - 3, Seoul, Korea)
+            - REAIM (9.9 - 10, Seoul, KOREA)
+            - 제8회 국방과학기술 대제전 (8.1 - 3, Seoul, KOREA)
         - 2023
             - 국제치안산업대전 (10.18 - 21, Incheon, KOREA)
-            - 2023 대한민국 안전산업박람회 (9.13 - 15, Goyang, KOREA )
+            - 2023 대한민국 안전산업박람회 (9.13 - 15, Goyang, KOREA)
             - K-ICT WEEK in BUSAN (9.6 - 8, Busan, KOREA)
             - 평택해양페스티벌 (5.11, Pyeongtaek, KOREA)
 
