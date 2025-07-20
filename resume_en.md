@@ -79,9 +79,9 @@
 ### Technical
 
 - SQL Developer Certificate (SQLD) – Jun 2022 / Korea Data Agency  
-- Engineer Information Processing Certificate – Jun 2022 / HR Development Service of Korea  
-- Advanced Computer Utilization Level 1 – Oct 2021 / KCCI  
-- Korean History Proficiency Test Level 2 – Jun 2021 / National Institute of Korean History
+- Engineer Information Processing – Jun 2022 / HR Development Service of Korea  
+- Computer Specialist in Spreadsheet & Database Level-1 – Oct 2021 / KCCI  
+- Korean History Proficiency Test (Proficient Level, Grade 2) – Jun 2021 / National Institute of Korean History
 
 ## 6. Military Service
 
