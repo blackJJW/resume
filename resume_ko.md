@@ -11,7 +11,8 @@
 - 2022.09 ~
   - 인빅(주)
     - 직위 :
-      - 개발2팀 : Assistant Research Engineer(주임 연구원, 2024.06 - )
+      - 개발팀 : Associate Research Engineer(대리, 2025.08 - )
+      - 개발2팀 : Assistant Research Engineer(주임 연구원, 2024.06 - 2025.08)
       - 전략사업팀 : Assistant Research Engineer(주임 연구원, 2024.04 - 2024.05)
       - R&D Team : Assistant Research Engineer(주임 연구원, 2023.01 - 2024.04)
       - AI Team : Researcher(연구원, 2022.09 - 2022.12)
@@ -19,6 +20,7 @@
       - Full Stack Developer
         - Spring Boot, JavaScript, HTML, CSS, Redis 등을 이용한 AI 서버와의 연동 홈페이지 제작
         - UX를 고려한 이미지, 동영상 시청을 위한 UI 개발 및 개선
+        - WebSocket 기반의 실시간 영상 및 이벤트 스트림 수신 및 렌더링 기능 구현 (WebCodecs, Canvas 활용)
       - MLOps Developer
         - Deepstream, GStreamer, FFmpeg 등을 이용한 AI 영상 처리
         - AI 모델을 적용한 실시간 영상 처리 server 개발

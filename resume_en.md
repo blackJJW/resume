@@ -10,8 +10,9 @@
 
 - **Sep 2022 – Present**  
   **InBic Inc.**  
-  - **Position**:  
-    - Assistant Research Engineer, Development Team 2 (Jun 2024 – Present)  
+  - **Position**:
+    - Associate Research Engineer, Development Team (Aug 2025 – Present)
+    - Assistant Research Engineer, Development Team 2 (Jun 2024 – Aug 2025)  
     - Assistant Research Engineer, Strategic Business Team (Apr 2024 – May 2024)  
     - Assistant Research Engineer, R&D Team (Jan 2023 – Apr 2024)  
     - Researcher, AI Team (Sep 2022 – Dec 2022)
@@ -20,6 +21,7 @@
     - **Full Stack Developer**  
       - Developed web applications connected to AI servers using Spring Boot, JavaScript, HTML, CSS, and Redis  
       - Designed and improved UI for viewing images and videos with user experience in mind
+      - Implemented real-time video and event stream rendering using WebSocket, WebCodecs, and HTML5 Canvas
     - **MLOps Developer**  
       - Processed AI-based video using DeepStream, GStreamer, and FFmpeg  
       - Developed real-time video processing servers applying AI models
