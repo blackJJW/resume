@@ -24,8 +24,14 @@
       - MLOps Developer
         - Deepstream, GStreamer, FFmpeg 등을 이용한 AI 영상 처리
         - AI 모델을 적용한 실시간 영상 처리 server 개발
-    - 전시회 참여 및 부스 운영 경험 :
 
+    - 현장 설치 및 실증 (PoC)
+      - 2025년 UAE Ajman에서 진행된 AI 바우처 사업 PoC 프로젝트 참여
+        - 실시간 AI 영상감시 시스템 설치 및 테스트 수행
+        - AI 서버 및 AI 박스 설정, NVR/VMS 설치, 로컬 네트워크 구성 진행
+        - 시스템 현지화 및 성능 최적화, 실환경 성능 평가를 통한 글로벌 기술 실증
+
+    - 전시회 참여 및 부스 운영 경험 :
       #### ▸ 해외 전시회
 
       - CES 2025 (2025.01 / Las Vegas, USA)

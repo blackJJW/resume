@@ -26,8 +26,13 @@
       - Processed AI-based video using DeepStream, GStreamer, and FFmpeg  
       - Developed real-time video processing servers applying AI models
 
-  - **Exhibition Participation & Booth Operations**:
+  - **Field Deployment & Proof-of-Concept (PoC)**:
+    - Participated in an **AI Voucher Program PoC project** in **Ajman, UAE (2025)**
+      - Installed and tested a **real-time AI surveillance system** in a local environment
+      - Set up **AI server and AI Box**, installed **NVR/VMS**, and configured the **local network**
+      - Conducted **localization**, **system optimization**, and **performance evaluation** in a real-world deployment
 
+  - **Exhibition Participation & Booth Operations**:
     #### ▸ International Exhibitions
     - CES 2025 (Jan 2025 / Las Vegas, USA)
     - SCEWC 2024 (Nov 2024 / Barcelona, Spain)
