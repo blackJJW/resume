@@ -34,11 +34,14 @@
 
   - **Exhibition Participation & Booth Operations**:
     #### ▸ International Exhibitions
+
+    - GITEX GLOBAL 2025 (Oct 2025 / Dubai, UAE)
     - CES 2025 (Jan 2025 / Las Vegas, USA)
     - SCEWC 2024 (Nov 2024 / Barcelona, Spain)
     - GITEX GLOBAL 2024 (Oct 2024 / Dubai, UAE)
 
     #### ▸ Domestic Exhibitions
+
     - SECON 2025 (Mar 2025 / Goyang)
     - COMEUP 2024 (Dec 2024 / Seoul)
     - International Security Industry Expo 2024 (Oct 2024 / Incheon)

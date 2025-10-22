@@ -34,6 +34,7 @@
     - 전시회 참여 및 부스 운영 경험 :
       #### ▸ 해외 전시회
 
+      - GITEX GLOBAL 2025 (Oct 2025 / Dubai, UAE)
       - CES 2025 (2025.01 / Las Vegas, USA)
       - SCEWC 2024 (2024.11 / Barcelona, SPAIN)
       - GITEX GLOBAL 2024 (2024.10 / Dubai, UAE)
