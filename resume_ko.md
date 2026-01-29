@@ -21,9 +21,12 @@
         - Spring Boot, JavaScript, HTML, CSS, Redis 등을 이용한 AI 서버와의 연동 홈페이지 제작
         - UX를 고려한 이미지, 동영상 시청을 위한 UI 개발 및 개선
         - WebSocket 기반의 실시간 영상 및 이벤트 스트림 수신 및 렌더링 기능 구현 (WebCodecs, Canvas 활용)
+        - 소셜 로그인 인증(OAuth 2.0) 흐름 구현: 네이버/카카오 로그인 API와 연동한 DB 설계, 백엔드 인증 로직 개발, 프론트엔드 연동 모듈 구현
+        - EMQX 브로커 구성 및 Spring Boot 기반 MQTT 클라이언트를 이용한 실시간 메시지 송수신 구현 및 테스트
       - MLOps Developer
         - Deepstream, GStreamer, FFmpeg 등을 이용한 AI 영상 처리
         - AI 모델을 적용한 실시간 영상 처리 server 개발
+        - Ollama 기반 LLM 테스트 환경 구축을 위한 CUDA/cuDNN 환경 세팅 및 서버 운영 경험
 
     - 현장 설치 및 실증 (PoC)
       - 2025년 UAE Ajman에서 진행된 AI 바우처 사업 PoC 프로젝트 참여

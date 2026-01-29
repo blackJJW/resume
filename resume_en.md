@@ -22,9 +22,12 @@
       - Developed web applications connected to AI servers using Spring Boot, JavaScript, HTML, CSS, and Redis  
       - Designed and improved UI for viewing images and videos with user experience in mind
       - Implemented real-time video and event stream rendering using WebSocket, WebCodecs, and HTML5 Canvas
+      - Built social login backend using **OAuth 2.0** with Naver/Kakao APIs, including **DB schema**, **authentication logic**, and frontend integration
+      - Developed **real-time MQTT messaging system** using **EMQX broker** and **Spring Boot-based client** for inter-system communication
     - **MLOps Developer**  
       - Processed AI-based video using DeepStream, GStreamer, and FFmpeg  
       - Developed real-time video processing servers applying AI models
+      - Set up **CUDA/cuDNN environment** and configured **Ollama server** for local LLM testing and GPU-based inference
 
   - **Field Deployment & Proof-of-Concept (PoC)**:
     - Participated in an **AI Voucher Program PoC project** in **Ajman, UAE (2025)**
